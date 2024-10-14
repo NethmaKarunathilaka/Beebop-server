@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Bee_bop.Controllers.MessageController",
+    "Method": "SubmitMessages",
+    "RelativePath": "api/Message/SubmitMessages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "Bee_bop.Models.Message",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

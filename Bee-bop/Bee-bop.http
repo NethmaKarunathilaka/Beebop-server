@@ -1,0 +1,6 @@
+@Bee_bop_HostAddress = http://localhost:5114
+
+GET {{Bee_bop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
