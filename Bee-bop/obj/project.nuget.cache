@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ygqAnxBX5tI=",
+  "dgSpecHash": "ea4EC3hO+TY=",
   "success": true,
-  "projectFilePath": "E:\\programming\\chatApp\\bee-bop-server\\chatapp-server\\Bee-bop\\Bee-bop\\Bee-bop.csproj",
+  "projectFilePath": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Bee-bop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nethma\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Nethma\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",

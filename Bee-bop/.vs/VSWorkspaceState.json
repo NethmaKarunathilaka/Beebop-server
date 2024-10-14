@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Bee-bop",
-    "\\Bee-bop\\Controllers",
-    "\\Bee-bop\\Models"
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\Dtos"
   ],
   "SelectedNode": "\\Bee-bop.sln",
   "PreviewInSolutionExplorer": false

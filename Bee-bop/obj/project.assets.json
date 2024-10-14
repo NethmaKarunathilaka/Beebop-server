@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\programming\\chatApp\\bee-bop-server\\chatapp-server\\Bee-bop\\Bee-bop\\Bee-bop.csproj",
+      "projectUniqueName": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Bee-bop.csproj",
       "projectName": "Bee-bop",
-      "projectPath": "E:\\programming\\chatApp\\bee-bop-server\\chatapp-server\\Bee-bop\\Bee-bop\\Bee-bop.csproj",
+      "projectPath": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Bee-bop.csproj",
       "packagesPath": "C:\\Users\\Nethma\\.nuget\\packages\\",
-      "outputPath": "E:\\programming\\chatApp\\bee-bop-server\\chatapp-server\\Bee-bop\\Bee-bop\\obj\\",
+      "outputPath": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nethma\\AppData\\Roaming\\NuGet\\NuGet.Config",
