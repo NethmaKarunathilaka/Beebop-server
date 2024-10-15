@@ -1,5 +1,6 @@
 using Bee_bop.Models;
-using Bee_bop.Services.MessageService;
+using Bee_bop.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -11,7 +12,9 @@ builder.Services.AddSwaggerGen();
 
 
 //service configuration
-builder.Services.AddSingleton<IMessageService, MessageService>();
+builder.Services.AddScoped<IMessageService, MessageService>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 
 
 // Add AutoMapper

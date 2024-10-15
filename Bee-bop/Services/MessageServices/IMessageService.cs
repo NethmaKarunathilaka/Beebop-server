@@ -1,6 +1,7 @@
 ﻿using Bee_bop.Models;
 using Bee_bop.Models.Dtos;
-namespace Bee_bop.Services.MessageService.MessageService
+
+namespace Bee_bop.Services
 {
     public interface IMessageService
     {

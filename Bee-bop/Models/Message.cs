@@ -6,7 +6,7 @@ namespace Bee_bop.Models
     {
         [Key]
         public  required int id { get; set; }
-        public string message { get; set; }
+        public  required string message { get; set; }
         
     }
 }

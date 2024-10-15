@@ -4,28 +4,31 @@ using Bee_bop.Models;
 using Bee_bop.Models.Dtos;
 using Bee_bop.Services;
 
-
 namespace Bee_bop.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class MessageController : ControllerBase
+    public class UserController : ControllerBase
     {
-        private readonly IMessageService _service;
+        private readonly IUserService _service;
 
-        public MessageController(IMessageService service)
+        public UserController(IUserService service)
         {
             _service = service;
         }
 
         [HttpPost]
-        [Route("SubmitMessage")]
-        public async Task<IActionResult> Post([FromBody] MessageSendDto message)
+        [Route("CreateUser")]
+        public async Task<IActionResult> Post([FromBody] UserRegDto newUser)
         {
-            await _service.SubmitMessage(message);
+            await _service.Create(newUser);
             return Ok();
         }
 
 
+
     }
 }
+
+
+
