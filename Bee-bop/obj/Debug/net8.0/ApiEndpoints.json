@@ -1,15 +1,31 @@
 [
   {
     "ContainingType": "Bee_bop.Controllers.MessageController",
-    "Method": "SubmitMessages",
-    "RelativePath": "api/Message/SubmitMessages",
+    "Method": "Post",
+    "RelativePath": "api/Message/SubmitMessage",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "message",
-        "Type": "Bee_bop.Models.Message",
+        "Type": "Bee_bop.Models.Dtos.MessageSendDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bee_bop.Controllers.UserController",
+    "Method": "Post",
+    "RelativePath": "api/User/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newUser",
+        "Type": "Bee_bop.Models.Dtos.UserRegDto",
         "IsRequired": true
       }
     ],

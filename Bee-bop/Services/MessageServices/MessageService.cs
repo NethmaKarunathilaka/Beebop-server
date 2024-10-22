@@ -14,7 +14,7 @@ namespace Bee_bop.Services
         {
             messages.Add(new Message
             {
-                id = messages.Count + 1,
+                mid = messages.Count + 1,
                 message = message.message
             });
 

@@ -1,5 +1,7 @@
 using Bee_bop.Models;
 using Bee_bop.Services;
+using Microsoft.EntityFrameworkCore;
+using Bee_bop.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +21,12 @@ builder.Services.AddScoped<IUserService, UserService>();
 
 // Add AutoMapper
 builder.Services.AddAutoMapper(typeof(Program));
+
+//DataContext configuration
+builder.Services.AddDbContext<DataContext>(options =>
+{
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 
 var app = builder.Build();

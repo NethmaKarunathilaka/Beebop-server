@@ -12,7 +12,7 @@ namespace Bee_bop.Services
         {
             users.Add(new User
             {
-                Id = users.Count + 1,
+                id = users.Count + 1,
                 username = newUser.username,
                 password = newUser.password
             });
