@@ -1,23 +1,43 @@
 ﻿using AutoMapper;
+using Bee_bop.Data;
 using Bee_bop.Models;
 using Bee_bop.Models.Dtos;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace Bee_bop.Services
 {
     public class UserService : IUserService
     {
-        private static List<User> users = new List<User>();
+        private readonly DataContext _context;
+        private readonly IMapper _mapper;
 
-       public async Task Create(UserRegDto newUser)
+
+
+        public UserService(DataContext context, IMapper mapper)
         {
-            users.Add(new User
-            {
-                id = users.Count + 1,
-                username = newUser.username,
-                password = newUser.password
-            });
+            _context = context;
+            _mapper = mapper;
+        }
 
-            await Task.CompletedTask;
+        public  Task Authenticate(LoginRequestDto loginuser)
+        {
+            if (loginuser == null)
+            {
+               return null;
+            }
+            return  _context.Users.FirstOrDefaultAsync(x => x.username == loginuser.username && x.password == loginuser.password);
+
+        }
+
+        public async Task Create(UserRegDto newUser)
+        {
+            var user = _mapper.Map<User>(newUser);
+            _context.Users.Add(user);
+
+            await _context.SaveChangesAsync();
+
         }
     }
 }

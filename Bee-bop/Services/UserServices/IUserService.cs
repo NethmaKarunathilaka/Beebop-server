@@ -8,5 +8,7 @@ namespace Bee_bop.Services
     {
         public Task Create(UserRegDto newUser);
 
+        public Task Authenticate(LoginRequestDto loginuser);
+
     }
 }

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\programming\\chatApp\\bee-bop-server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Migrations\\20241022080508_InitialChatSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bee-bop\\Migrations\\20241022080508_InitialChatSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\messageservices\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\messageservices\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\messageservices\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\messageservices\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,36 +35,32 @@
       "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\messageservices\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\messageservices\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\models\\dtos\\userregdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\models\\dtos\\userregdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\models\\dtos\\messagesenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\models\\dtos\\messagesenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\migrations\\20241022080508_initialchatschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\migrations\\20241022080508_initialchatschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\services\\messageservices\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\services\\messageservices\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\models\\dtos\\messagesenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|solutionrelative:bee-bop\\models\\dtos\\messagesenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCF6FC4F-4BB0-482C-99C6-B91600120075}|Bee-bop\\Bee-bop.csproj|e:\\programming\\chatapp\\bee-bop-server\\bee-bop\\mapperprofile\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,6 +83,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Services\\UserServices\\UserService.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\UserService.cs",
+              "RelativeToolTip": "Bee-bop\\Services\\UserServices\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:45:23.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Bee-bop\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:58:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Program.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Program.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Program.cs",
+              "RelativeToolTip": "Bee-bop\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:09:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Controllers\\MessageController.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Bee-bop\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:45:30.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\MessageServices\\MessageService.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Services\\MessageServices\\MessageService.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\MessageServices\\MessageService.cs",
+              "RelativeToolTip": "Bee-bop\\Services\\MessageServices\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:48:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Data\\DataContext.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Data\\DataContext.cs",
+              "RelativeToolTip": "Bee-bop\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:47:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Models\\User.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\User.cs",
+              "RelativeToolTip": "Bee-bop\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:09:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Services\\UserServices\\IUserService.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\IUserService.cs",
+              "RelativeToolTip": "Bee-bop\\Services\\UserServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:45:21.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20241022080508_InitialChatSchema.cs",
               "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Migrations\\20241022080508_InitialChatSchema.cs",
               "RelativeDocumentMoniker": "Bee-bop\\Migrations\\20241022080508_InitialChatSchema.cs",
@@ -95,46 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\appsettings.json",
-              "RelativeDocumentMoniker": "Bee-bop\\appsettings.json",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\appsettings.json",
-              "RelativeToolTip": "Bee-bop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T07:58:51.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Models\\User.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\User.cs",
-              "RelativeToolTip": "Bee-bop\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:09:46.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Program.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Program.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Program.cs",
-              "RelativeToolTip": "Bee-bop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:09:53.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Message.cs",
               "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\Message.cs",
               "RelativeDocumentMoniker": "Bee-bop\\Models\\Message.cs",
@@ -147,15 +212,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Data\\DataContext.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Data\\DataContext.cs",
-              "RelativeToolTip": "Bee-bop\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UserRegDto.cs",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\Dtos\\UserRegDto.cs",
+              "RelativeDocumentMoniker": "Bee-bop\\Models\\Dtos\\UserRegDto.cs",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\Dtos\\UserRegDto.cs",
+              "RelativeToolTip": "Bee-bop\\Models\\Dtos\\UserRegDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:47:06.982Z",
+              "WhenOpened": "2024-10-14T16:57:20.418Z",
               "EditorCaption": ""
             },
             {
@@ -173,33 +238,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\UserService.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Services\\UserServices\\UserService.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\UserService.cs",
-              "RelativeToolTip": "Bee-bop\\Services\\UserServices\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:45:23.349Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\appsettings.json",
+              "RelativeDocumentMoniker": "Bee-bop\\appsettings.json",
+              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\appsettings.json",
+              "RelativeToolTip": "Bee-bop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T07:58:51.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MessageService.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\MessageServices\\MessageService.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Services\\MessageServices\\MessageService.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\MessageServices\\MessageService.cs",
-              "RelativeToolTip": "Bee-bop\\Services\\MessageServices\\MessageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:48:35.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "IMessageService.cs",
               "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\MessageServices\\IMessageService.cs",
               "RelativeDocumentMoniker": "Bee-bop\\Services\\MessageServices\\IMessageService.cs",
@@ -207,38 +258,11 @@
               "RelativeToolTip": "Bee-bop\\Services\\MessageServices\\IMessageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:12:39.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T16:12:39.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MessageController.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\MessageController.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Controllers\\MessageController.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\MessageController.cs",
-              "RelativeToolTip": "Bee-bop\\Controllers\\MessageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:45:30.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Bee-bop\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:58:58.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MessageSendDto.cs",
               "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\Dtos\\MessageSendDto.cs",
               "RelativeDocumentMoniker": "Bee-bop\\Models\\Dtos\\MessageSendDto.cs",
@@ -246,34 +270,7 @@
               "RelativeToolTip": "Bee-bop\\Models\\Dtos\\MessageSendDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:51:06.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\IUserService.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Services\\UserServices\\IUserService.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Services\\UserServices\\IUserService.cs",
-              "RelativeToolTip": "Bee-bop\\Services\\UserServices\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:45:21.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserRegDto.cs",
-              "DocumentMoniker": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\Dtos\\UserRegDto.cs",
-              "RelativeDocumentMoniker": "Bee-bop\\Models\\Dtos\\UserRegDto.cs",
-              "ToolTip": "E:\\programming\\chatApp\\bee-bop-server\\Bee-bop\\Models\\Dtos\\UserRegDto.cs",
-              "RelativeToolTip": "Bee-bop\\Models\\Dtos\\UserRegDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T16:57:20.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T03:51:06.602Z"
             },
             {
               "$type": "Document",
@@ -285,8 +282,7 @@
               "RelativeToolTip": "Bee-bop\\MapperProfile\\MapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:52:14.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:52:14.904Z"
             }
           ]
         }

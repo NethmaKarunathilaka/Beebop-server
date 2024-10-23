@@ -18,6 +18,22 @@
   {
     "ContainingType": "Bee_bop.Controllers.UserController",
     "Method": "Post",
+    "RelativePath": "api/User/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginuser",
+        "Type": "Bee_bop.Models.Dtos.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bee_bop.Controllers.UserController",
+    "Method": "Post",
     "RelativePath": "api/User/CreateUser",
     "HttpMethod": "POST",
     "IsController": true,

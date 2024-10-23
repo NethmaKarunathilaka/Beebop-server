@@ -25,6 +25,14 @@ namespace Bee_bop.Controllers
             return Ok();
         }
 
+        [HttpPost]
+        [Route("Authenticate")]
+        public async Task<IActionResult> Post([FromBody] LoginRequestDto loginuser)
+        {
+            await _service.Authenticate(loginuser);
+            return Ok();
+        }
+
 
 
     }

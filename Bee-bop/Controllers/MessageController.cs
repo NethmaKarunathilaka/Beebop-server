@@ -3,12 +3,14 @@ using Microsoft.AspNetCore.Mvc;
 using Bee_bop.Models;
 using Bee_bop.Models.Dtos;
 using Bee_bop.Services;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace Bee_bop.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class MessageController : ControllerBase
     {
         private readonly IMessageService _service;

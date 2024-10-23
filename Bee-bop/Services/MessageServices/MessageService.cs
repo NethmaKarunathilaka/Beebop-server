@@ -1,24 +1,27 @@
 ﻿using AutoMapper;
 using Bee_bop.Models;
 using Bee_bop.Models.Dtos;
+using Bee_bop.Data;
 
 namespace Bee_bop.Services
 
 {
     public class MessageService : IMessageService
     {
-        private static List<Message> messages = new List<Message>();
+        private readonly DataContext _context;
         private readonly IMapper _mapper;
 
+        public MessageService(DataContext context, IMapper mapper)
+        {
+            _context = context;
+            _mapper = mapper;
+        }
         public async Task SubmitMessage(MessageSendDto message)
         {
-            messages.Add(new Message
-            {
-                mid = messages.Count + 1,
-                message = message.message
-            });
+            var messages = _mapper.Map<Message>(message);
 
-            await Task.CompletedTask;
+             _context.Messages.Add(messages);
+            await _context.SaveChangesAsync();
 
         }
     }
